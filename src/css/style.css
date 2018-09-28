@@ -23,3 +23,18 @@ body {
   height: 40px;
   background: red;
 }
+
+.wrap section {
+  width: 100%;
+  flex-grow: 1;
+}
+
+.wrap section ul {
+  width: 100%;
+  height: 100%;
+}
+
+.wrap section ul li {
+  width: 100%;
+  height: 50px;
+}
